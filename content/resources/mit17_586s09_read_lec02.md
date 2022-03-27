@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 23625238-07da-e106-72c6-e0bd24b5b0f5
 resourcetype: Document
 title: Warlords
 uid: d600de7c-7033-fc9f-92cb-3c1d852db6fe
