@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the discussant memo assignment of
+  the course along with example memos written by students.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: db0c0770-eb7c-7384-3d15-96f05adf2298
 ---
@@ -20,25 +25,25 @@ EXAMPLE DISCUSSION MEMOS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Week 2 ([PDF]({{< baseurl >}}/resources/mit17_586s09_assn02))
+Week 2 ({{% resource_link e204d377-ed89-0005-88c5-2a9680dbbab0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Week 4 ([PDF]({{< baseurl >}}/resources/mit17_586s09_assn04))
+Week 4 ({{% resource_link 471c3f59-b638-4775-353f-7aed3571ab61 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Week 6 ([PDF]({{< baseurl >}}/resources/mit17_586s09_assn06))
+Week 6 ({{% resource_link 682cebe5-b86d-329c-cb85-8fcbe0648561 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Week 8 ([PDF]({{< baseurl >}}/resources/mit17_586s09_assn08))
+Week 8 ({{% resource_link d35bf435-7baa-23fe-7690-aa3a19145853 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
