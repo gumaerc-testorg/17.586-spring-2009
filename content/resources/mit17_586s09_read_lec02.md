@@ -7,6 +7,7 @@ file: /courses/17-586-warlords-terrorists-and-militias-theorizing-on-violent-non
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Warlords
 uid: d600de7c-7033-fc9f-92cb-3c1d852db6fe
 ---
 Notes from the second lecture of the course. Topics include violent non state actors, soldiers versus warriors, the emergence and significance of warlordism, warlord war versus armed peace, and the paradox of warlord democracy.
-
