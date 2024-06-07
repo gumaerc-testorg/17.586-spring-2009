@@ -4,6 +4,7 @@ description: Notes from the second lecture of the course. Topics include violent
   state actors, soldiers versus warriors, the emergence and significance of warlordism,
   warlord war versus armed peace, and the paradox of warlord democracy.
 file: /courses/17-586-warlords-terrorists-and-militias-theorizing-on-violent-non-state-actors-spring-2009/d600de7c7033fc9f92cb3c1d852db6fe_MIT17_586s09_read_lec02.pdf
+file_size: 86000
 file_type: application/pdf
 learning_resource_types:
 - Readings
